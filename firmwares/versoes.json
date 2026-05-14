@@ -1,1 +1,22 @@
-teste version
+{
+  "gateway": {
+    "versao": "2.0.1",
+    "arquivo": "gateway_v2.bin",
+    "url": "http://raw.githubusercontent.com/brunowhisky/Geweih_Beer/refs/heads/main/firmwares/gateway_v2.bin"
+  },
+  "chiller": {
+    "versao": "1.5.0",
+    "arquivo": "chiller.hex",
+    "url": "http://raw.githubusercontent.com/brunowhisky/Geweih_Beer/refs/heads/main/firmwares/chiller.hex"
+  },
+  "brassagem": {
+    "versao": "1.2.0",
+    "arquivo": "brassagem.hex",
+    "url": "http://raw.githubusercontent.com/brunowhisky/Geweih_Beer/refs/heads/main/firmwares/brassagem.hex"
+  },
+  "fermentador": {
+    "versao": "3.1.0",
+    "arquivo": "fermentador.hex",
+    "url": "http://raw.githubusercontent.com/brunowhisky/Geweih_Beer/refs/heads/main/firmwares/fermentador.hex"
+  }
+}

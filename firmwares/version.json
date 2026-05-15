@@ -1,7 +1,7 @@
 {
   "html_md5": "2d8373db6432c016055b776866154bb7",
   "gateway": {
-    "versao": "2.0.2",
+    "versao": "2.0.3",
     "arquivo": "gateway_v2.bin"
   },
   "chiller": {
